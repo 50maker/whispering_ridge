@@ -1,5 +1,5 @@
 import Button from "../../ui/Button";
-import CreateBookingForm from "./createBookingForm";
+import CreateBookingForm from "./CreateBookingForm";
 import Modal from "../../ui/Modal";
 
 function AddBooking() {
